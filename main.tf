@@ -90,3 +90,5 @@ resource "aws_instance" "web" {
     Name = var.server_name
   }
 }
+
+# Este es un comentario
